@@ -38,4 +38,12 @@ object Form1: TForm1
     TabOrder = 2
     Text = 'Edit2'
   end
+  object Panel1: TPanel
+    Left = 128
+    Top = 24
+    Width = 185
+    Height = 41
+    Caption = 'Panel1'
+    TabOrder = 3
+  end
 end
